@@ -1,0 +1,2 @@
+class QueryAgent:
+    pass
